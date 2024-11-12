@@ -1,4 +1,6 @@
-# Bookshelf App Starter Project
+# 💻 Bookshelf App Starter Project
+
+-------
 
 Ini adalah starter project untuk siswa yang sedang mengerjakan tugas akhir kelas Belajar Membuat Front-End Web untuk Pemula.
 
@@ -37,4 +39,14 @@ Untuk mempermudah penilaian submission yang dikirim, Anda perlu memahami ketentu
 
 Selamat mengerjakan dan sukses selalu!
 
-Make By JemJeeqt
+
+## 📝 Lisensi
+
+<p align="center">
+  MIT License &copy; 2024 Azhar Khairu Hafidz
+  <br/>
+  Made with ❤️ by <a href="https://github.com/Jemjeqt">Azhar Khairu Hafidz</a>
+</p>
+
+
+
